@@ -7,5 +7,5 @@
 4. Use the forecasted values to optimize portfolio
 
 
-__Implementation and output of all objectives can be found in Final_Project.ipynb__
+__Implementation and output of all objectives can be found in Final_Project.ipynb__.
 __All other files contain supporter functions__
